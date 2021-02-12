@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  background-image: url(../assets/11.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .row {
@@ -8,12 +11,18 @@
 }
 .main-card {
   background-color: rgb(125, 223, 236);
+  border-radius: 15px;
+  border-color: azure;
+  box-shadow: 5px 5px blue, 10px 10px red, 15px 15px green;
 }
 .main-title {
-  color: cadetblue;
+  color: white;
+  font-style: bold;
 }
 .main-btn {
   background-color: cadetblue;
-  color: rgb(119, 10, 52);
+  color: white;
   font-weight: bold;
+  border-radius: 15px;
+  border-color: black;
 }
