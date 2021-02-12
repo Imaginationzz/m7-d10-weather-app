@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.row {
+  justify-content: center;
+  margin: 15px 0;
+}
+.main-card {
+  background-color: rgb(125, 223, 236);
+}
+.main-title {
+  color: cadetblue;
+}
+.main-btn {
+  background-color: cadetblue;
+  color: rgb(119, 10, 52);
+  font-weight: bold;
+}
